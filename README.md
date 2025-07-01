@@ -4,7 +4,7 @@
 
 **Analyzing and modeling user behavior to predict churn in the Waze app using Machine Learning.**
 
-![churn-banner](https://your-link-to-an-image-if-you-have-one.com/banner.png)
+![image](https://github.com/user-attachments/assets/5377ef0c-998b-4703-99be-9d219a187b28)
 
 ## 📌 Project Objective
 
