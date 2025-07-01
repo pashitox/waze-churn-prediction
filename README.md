@@ -2,6 +2,12 @@
 
 **Análisis y modelado para predecir la pérdida de usuarios en la plataforma Waze utilizando técnicas de Machine Learning.**
 
+![image](https://github.com/user-attachments/assets/5377ef0c-998b-4703-99be-9d219a187b28)
+
+
+
+
+
 ## 📌 Objetivo del proyecto
 
 Detectar patrones de comportamiento que indiquen riesgo de abandono de usuarios de Waze, con el fin de tomar decisiones proactivas que mejoren la retención.
